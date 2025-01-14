@@ -31,6 +31,7 @@ The excel sheet allow you to add the project name and ten tasks within the proje
             o	The priority will be the highest score of all tasks.
             o	The due date will be the lowest due date of all tasks.
             o	The completion percent will be the average completion percent of all task.
+
 Dashboard:
       •	Total number of projects is calculated based on cells has project name.
       •	Pie chart of projects based on status; number of projects completed, number of projects within time and number of projects overdue.
